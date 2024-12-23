@@ -6,7 +6,7 @@ Requires root privileges because a regular user cannot update regular apps insta
 * Apts
 * Flatpaks
 
-# Requirements:
+## Requirements:
 * Fastfetch (can be removed by editing the code)
 * Root privileges (to update APTs)
 * Flatpak installed on your system
